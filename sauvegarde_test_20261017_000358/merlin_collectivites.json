@@ -1,0 +1,34 @@
+[
+    {
+        "idc": "Grenay",
+        "agents": [
+            {
+                "prenom": "Jacky",
+                "nom": "Vincent",
+                "poste": "0321444510",
+                "mail": "jackyfoufou@grenay.fr"
+            },
+            {
+                "prenom": "Pauline",
+                "nom": "Lafond",
+                "poste": "",
+                "mail": ""
+            }
+        ]
+    },
+    {
+        "idc": "Lille",
+        "agents": [
+            {
+                "prenom": "Jacques",
+                "nom": "Volant",
+                "poste": "",
+                "mail": ""
+            }
+        ]
+    },
+    {
+        "idc": "gren",
+        "agents": []
+    }
+]

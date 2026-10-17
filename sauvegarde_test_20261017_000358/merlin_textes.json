@@ -1,0 +1,26 @@
+[
+    {
+        "titre": "CGFP (Code général de la fonction publique)",
+        "hierarchie": 1,
+        "theme": "Compte épargne-temps (CET)",
+        "abroge": false,
+        "modificatifs": [
+            "Loi n°2023-123 du 1er janvier 2023"
+        ]
+    },
+    {
+        "titre": "Circulaire ministérielle du 5 février 2005",
+        "hierarchie": 3,
+        "theme": "Compte épargne-temps (CET)",
+        "abroge": true,
+        "modificatifs": []
+    },
+    {
+        "titre": "Décret n°2004-878 du 26.08.2004 relatif au compte épargne-temps dans la fonction publique territoriale.",
+        "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000446192/2026-10-16",
+        "hierarchie": 2,
+        "theme": "Compte épargne-temps (CET)",
+        "abroge": false,
+        "modificatifs": []
+    }
+]

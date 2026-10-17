@@ -1,0 +1,3582 @@
+[
+    {
+        "idc": "Ablain-Saint-Nazaire",
+        "agents": []
+    },
+    {
+        "idc": "Ablainzevelle",
+        "agents": []
+    },
+    {
+        "idc": "Acheville",
+        "agents": []
+    },
+    {
+        "idc": "Achicourt",
+        "agents": []
+    },
+    {
+        "idc": "Achiet-le-Grand",
+        "agents": []
+    },
+    {
+        "idc": "Achiet-le-Petit",
+        "agents": []
+    },
+    {
+        "idc": "Acq",
+        "agents": []
+    },
+    {
+        "idc": "Acquin-Westbécourt",
+        "agents": []
+    },
+    {
+        "idc": "Adinfer",
+        "agents": []
+    },
+    {
+        "idc": "Affringues",
+        "agents": []
+    },
+    {
+        "idc": "Agnez-lès-Duisans",
+        "agents": []
+    },
+    {
+        "idc": "Agnières",
+        "agents": []
+    },
+    {
+        "idc": "Agny",
+        "agents": []
+    },
+    {
+        "idc": "Aire-sur-la-Lys",
+        "agents": []
+    },
+    {
+        "idc": "Airon-Notre-Dame",
+        "agents": []
+    },
+    {
+        "idc": "Airon-Saint-Vaast",
+        "agents": []
+    },
+    {
+        "idc": "Aix-en-Ergny",
+        "agents": []
+    },
+    {
+        "idc": "Aix-en-Issart",
+        "agents": []
+    },
+    {
+        "idc": "Aix-Noulette",
+        "agents": []
+    },
+    {
+        "idc": "Alembon",
+        "agents": []
+    },
+    {
+        "idc": "Alette",
+        "agents": []
+    },
+    {
+        "idc": "Alincthun",
+        "agents": []
+    },
+    {
+        "idc": "Allouagne",
+        "agents": []
+    },
+    {
+        "idc": "Alquines",
+        "agents": []
+    },
+    {
+        "idc": "Ambleteuse",
+        "agents": []
+    },
+    {
+        "idc": "Ambricourt",
+        "agents": []
+    },
+    {
+        "idc": "Ambrines",
+        "agents": []
+    },
+    {
+        "idc": "Ames",
+        "agents": []
+    },
+    {
+        "idc": "Amettes",
+        "agents": []
+    },
+    {
+        "idc": "Amplier",
+        "agents": []
+    },
+    {
+        "idc": "Andres",
+        "agents": []
+    },
+    {
+        "idc": "Angres",
+        "agents": []
+    },
+    {
+        "idc": "Annay",
+        "agents": []
+    },
+    {
+        "idc": "Annequin",
+        "agents": []
+    },
+    {
+        "idc": "Annezin",
+        "agents": []
+    },
+    {
+        "idc": "Anvin",
+        "agents": []
+    },
+    {
+        "idc": "Anzin-Saint-Aubin",
+        "agents": []
+    },
+    {
+        "idc": "Ardres",
+        "agents": []
+    },
+    {
+        "idc": "Arleux-en-Gohelle",
+        "agents": []
+    },
+    {
+        "idc": "Arques",
+        "agents": []
+    },
+    {
+        "idc": "Arras",
+        "agents": []
+    },
+    {
+        "idc": "Athies",
+        "agents": []
+    },
+    {
+        "idc": "Les Attaques",
+        "agents": []
+    },
+    {
+        "idc": "Attin",
+        "agents": []
+    },
+    {
+        "idc": "Aubigny-en-Artois",
+        "agents": []
+    },
+    {
+        "idc": "Aubin-Saint-Vaast",
+        "agents": []
+    },
+    {
+        "idc": "Aubrometz",
+        "agents": []
+    },
+    {
+        "idc": "Auchel",
+        "agents": []
+    },
+    {
+        "idc": "Auchy-au-Bois",
+        "agents": []
+    },
+    {
+        "idc": "Auchy-lès-Hesdin",
+        "agents": []
+    },
+    {
+        "idc": "Auchy-les-Mines",
+        "agents": []
+    },
+    {
+        "idc": "Audembert",
+        "agents": []
+    },
+    {
+        "idc": "Audincthun",
+        "agents": []
+    },
+    {
+        "idc": "Audinghen",
+        "agents": []
+    },
+    {
+        "idc": "Audrehem",
+        "agents": []
+    },
+    {
+        "idc": "Audresselles",
+        "agents": []
+    },
+    {
+        "idc": "Audruicq",
+        "agents": []
+    },
+    {
+        "idc": "Aumerval",
+        "agents": []
+    },
+    {
+        "idc": "Autingues",
+        "agents": []
+    },
+    {
+        "idc": "Auxi-le-Château",
+        "agents": []
+    },
+    {
+        "idc": "Averdoingt",
+        "agents": []
+    },
+    {
+        "idc": "Avesnes",
+        "agents": []
+    },
+    {
+        "idc": "Avesnes-le-Comte",
+        "agents": []
+    },
+    {
+        "idc": "Avesnes-lès-Bapaume",
+        "agents": []
+    },
+    {
+        "idc": "Avion",
+        "agents": []
+    },
+    {
+        "idc": "Avondance",
+        "agents": []
+    },
+    {
+        "idc": "Avroult",
+        "agents": []
+    },
+    {
+        "idc": "Ayette",
+        "agents": []
+    },
+    {
+        "idc": "Azincourt",
+        "agents": []
+    },
+    {
+        "idc": "Bailleul-aux-Cornailles",
+        "agents": []
+    },
+    {
+        "idc": "Bailleul-lès-Pernes",
+        "agents": []
+    },
+    {
+        "idc": "Bailleulmont",
+        "agents": []
+    },
+    {
+        "idc": "Bailleul-Sir-Berthoult",
+        "agents": []
+    },
+    {
+        "idc": "Bailleulval",
+        "agents": []
+    },
+    {
+        "idc": "Baincthun",
+        "agents": []
+    },
+    {
+        "idc": "Bainghen",
+        "agents": []
+    },
+    {
+        "idc": "Bajus",
+        "agents": []
+    },
+    {
+        "idc": "Balinghem",
+        "agents": []
+    },
+    {
+        "idc": "Bancourt",
+        "agents": []
+    },
+    {
+        "idc": "Bapaume",
+        "agents": []
+    },
+    {
+        "idc": "Baralle",
+        "agents": []
+    },
+    {
+        "idc": "Barastre",
+        "agents": []
+    },
+    {
+        "idc": "Barlin",
+        "agents": []
+    },
+    {
+        "idc": "Barly",
+        "agents": []
+    },
+    {
+        "idc": "Basseux",
+        "agents": []
+    },
+    {
+        "idc": "Bavincourt",
+        "agents": []
+    },
+    {
+        "idc": "Bayenghem-lès-Éperlecques",
+        "agents": []
+    },
+    {
+        "idc": "Bayenghem-lès-Seninghem",
+        "agents": []
+    },
+    {
+        "idc": "Bazinghen",
+        "agents": []
+    },
+    {
+        "idc": "Béalencourt",
+        "agents": []
+    },
+    {
+        "idc": "Beaudricourt",
+        "agents": []
+    },
+    {
+        "idc": "Beaufort-Blavincourt",
+        "agents": []
+    },
+    {
+        "idc": "Beaulencourt",
+        "agents": []
+    },
+    {
+        "idc": "Beaumerie-Saint-Martin",
+        "agents": []
+    },
+    {
+        "idc": "Beaumetz-lès-Aire",
+        "agents": []
+    },
+    {
+        "idc": "Beaumetz-lès-Cambrai",
+        "agents": []
+    },
+    {
+        "idc": "Beaumetz-lès-Loges",
+        "agents": []
+    },
+    {
+        "idc": "Beaurains",
+        "agents": []
+    },
+    {
+        "idc": "Beaurainville",
+        "agents": []
+    },
+    {
+        "idc": "Beauvoir-Wavans",
+        "agents": []
+    },
+    {
+        "idc": "Beauvois",
+        "agents": []
+    },
+    {
+        "idc": "Bécourt",
+        "agents": []
+    },
+    {
+        "idc": "Béhagnies",
+        "agents": []
+    },
+    {
+        "idc": "Bellebrune",
+        "agents": []
+    },
+    {
+        "idc": "Belle-et-Houllefort",
+        "agents": []
+    },
+    {
+        "idc": "Bellonne",
+        "agents": []
+    },
+    {
+        "idc": "Bénifontaine",
+        "agents": []
+    },
+    {
+        "idc": "Berck",
+        "agents": []
+    },
+    {
+        "idc": "Bergueneuse",
+        "agents": []
+    },
+    {
+        "idc": "Berlencourt-le-Cauroy",
+        "agents": []
+    },
+    {
+        "idc": "Berles-au-Bois",
+        "agents": []
+    },
+    {
+        "idc": "Berles-Monchel",
+        "agents": []
+    },
+    {
+        "idc": "Bermicourt",
+        "agents": []
+    },
+    {
+        "idc": "Berneville",
+        "agents": []
+    },
+    {
+        "idc": "Bernieulles",
+        "agents": []
+    },
+    {
+        "idc": "Bertincourt",
+        "agents": []
+    },
+    {
+        "idc": "Béthonsart",
+        "agents": []
+    },
+    {
+        "idc": "Béthune",
+        "agents": []
+    },
+    {
+        "idc": "Beugin",
+        "agents": []
+    },
+    {
+        "idc": "Beugnâtre",
+        "agents": []
+    },
+    {
+        "idc": "Beugny",
+        "agents": []
+    },
+    {
+        "idc": "Beussent",
+        "agents": []
+    },
+    {
+        "idc": "Beutin",
+        "agents": []
+    },
+    {
+        "idc": "Beuvrequen",
+        "agents": []
+    },
+    {
+        "idc": "Beuvry",
+        "agents": []
+    },
+    {
+        "idc": "Bezinghem",
+        "agents": []
+    },
+    {
+        "idc": "Biache-Saint-Vaast",
+        "agents": []
+    },
+    {
+        "idc": "Biefvillers-lès-Bapaume",
+        "agents": []
+    },
+    {
+        "idc": "Bienvillers-au-Bois",
+        "agents": []
+    },
+    {
+        "idc": "Bihucourt",
+        "agents": []
+    },
+    {
+        "idc": "Billy-Berclau",
+        "agents": []
+    },
+    {
+        "idc": "Billy-Montigny",
+        "agents": []
+    },
+    {
+        "idc": "Bimont",
+        "agents": []
+    },
+    {
+        "idc": "Blairville",
+        "agents": []
+    },
+    {
+        "idc": "Blangerval-Blangermont",
+        "agents": []
+    },
+    {
+        "idc": "Blangy-sur-Ternoise",
+        "agents": []
+    },
+    {
+        "idc": "Blendecques",
+        "agents": []
+    },
+    {
+        "idc": "Bléquin",
+        "agents": []
+    },
+    {
+        "idc": "Blessy",
+        "agents": []
+    },
+    {
+        "idc": "Blingel",
+        "agents": []
+    },
+    {
+        "idc": "Boffles",
+        "agents": []
+    },
+    {
+        "idc": "Boiry-Becquerelle",
+        "agents": []
+    },
+    {
+        "idc": "Boiry-Notre-Dame",
+        "agents": []
+    },
+    {
+        "idc": "Boiry-Sainte-Rictrude",
+        "agents": []
+    },
+    {
+        "idc": "Boiry-Saint-Martin",
+        "agents": []
+    },
+    {
+        "idc": "Bois-Bernard",
+        "agents": []
+    },
+    {
+        "idc": "Boisdinghem",
+        "agents": []
+    },
+    {
+        "idc": "Boisjean",
+        "agents": []
+    },
+    {
+        "idc": "Boisleux-au-Mont",
+        "agents": []
+    },
+    {
+        "idc": "Boisleux-Saint-Marc",
+        "agents": []
+    },
+    {
+        "idc": "Bomy",
+        "agents": []
+    },
+    {
+        "idc": "Bonnières",
+        "agents": []
+    },
+    {
+        "idc": "Bonningues-lès-Ardres",
+        "agents": []
+    },
+    {
+        "idc": "Bonningues-lès-Calais",
+        "agents": []
+    },
+    {
+        "idc": "Boubers-lès-Hesmond",
+        "agents": []
+    },
+    {
+        "idc": "Boubers-sur-Canche",
+        "agents": []
+    },
+    {
+        "idc": "Bouin-Plumoison",
+        "agents": []
+    },
+    {
+        "idc": "Boulogne-sur-Mer",
+        "agents": []
+    },
+    {
+        "idc": "Bouquehault",
+        "agents": []
+    },
+    {
+        "idc": "Bourecq",
+        "agents": []
+    },
+    {
+        "idc": "Bouret-sur-Canche",
+        "agents": []
+    },
+    {
+        "idc": "Bourlon",
+        "agents": []
+    },
+    {
+        "idc": "Bournonville",
+        "agents": []
+    },
+    {
+        "idc": "Bours",
+        "agents": []
+    },
+    {
+        "idc": "Boursin",
+        "agents": []
+    },
+    {
+        "idc": "Bourthes",
+        "agents": []
+    },
+    {
+        "idc": "Bouvelinghem",
+        "agents": []
+    },
+    {
+        "idc": "Bouvigny-Boyeffles",
+        "agents": []
+    },
+    {
+        "idc": "Boyaval",
+        "agents": []
+    },
+    {
+        "idc": "Boyelles",
+        "agents": []
+    },
+    {
+        "idc": "Brebières",
+        "agents": []
+    },
+    {
+        "idc": "Brêmes",
+        "agents": []
+    },
+    {
+        "idc": "Brévillers",
+        "agents": []
+    },
+    {
+        "idc": "Bréxent-Énocq",
+        "agents": []
+    },
+    {
+        "idc": "Brias",
+        "agents": []
+    },
+    {
+        "idc": "Brimeux",
+        "agents": []
+    },
+    {
+        "idc": "Bruay-la-Buissière",
+        "agents": []
+    },
+    {
+        "idc": "Brunembert",
+        "agents": []
+    },
+    {
+        "idc": "Bucquoy",
+        "agents": []
+    },
+    {
+        "idc": "Buire-au-Bois",
+        "agents": []
+    },
+    {
+        "idc": "Buire-le-Sec",
+        "agents": []
+    },
+    {
+        "idc": "Buissy",
+        "agents": []
+    },
+    {
+        "idc": "Bullecourt",
+        "agents": []
+    },
+    {
+        "idc": "Bully-les-Mines",
+        "agents": []
+    },
+    {
+        "idc": "Buneville",
+        "agents": []
+    },
+    {
+        "idc": "Burbure",
+        "agents": []
+    },
+    {
+        "idc": "Bus",
+        "agents": []
+    },
+    {
+        "idc": "Busnes",
+        "agents": []
+    },
+    {
+        "idc": "Caffiers",
+        "agents": []
+    },
+    {
+        "idc": "Cagnicourt",
+        "agents": []
+    },
+    {
+        "idc": "Calais",
+        "agents": []
+    },
+    {
+        "idc": "Calonne-Ricouart",
+        "agents": []
+    },
+    {
+        "idc": "Calonne-sur-la-Lys",
+        "agents": []
+    },
+    {
+        "idc": "La Calotterie",
+        "agents": []
+    },
+    {
+        "idc": "Camblain-Châtelain",
+        "agents": []
+    },
+    {
+        "idc": "Camblain-l'Abbé",
+        "agents": []
+    },
+    {
+        "idc": "Cambligneul",
+        "agents": []
+    },
+    {
+        "idc": "Cambrin",
+        "agents": []
+    },
+    {
+        "idc": "Camiers",
+        "agents": []
+    },
+    {
+        "idc": "Campagne-lès-Boulonnais",
+        "agents": []
+    },
+    {
+        "idc": "Campagne-lès-Guines",
+        "agents": []
+    },
+    {
+        "idc": "Campagne-lès-Hesdin",
+        "agents": []
+    },
+    {
+        "idc": "Campagne-lès-Wardrecques",
+        "agents": []
+    },
+    {
+        "idc": "Campigneulles-les-Grandes",
+        "agents": []
+    },
+    {
+        "idc": "Campigneulles-les-Petites",
+        "agents": []
+    },
+    {
+        "idc": "Canettemont",
+        "agents": []
+    },
+    {
+        "idc": "Canlers",
+        "agents": []
+    },
+    {
+        "idc": "Canteleux",
+        "agents": []
+    },
+    {
+        "idc": "Capelle-Fermont",
+        "agents": []
+    },
+    {
+        "idc": "La Capelle-lès-Boulogne",
+        "agents": []
+    },
+    {
+        "idc": "Capelle-lès-Hesdin",
+        "agents": []
+    },
+    {
+        "idc": "Carency",
+        "agents": []
+    },
+    {
+        "idc": "Carly",
+        "agents": []
+    },
+    {
+        "idc": "Carvin",
+        "agents": []
+    },
+    {
+        "idc": "La Cauchie",
+        "agents": []
+    },
+    {
+        "idc": "Cauchy-à-la-Tour",
+        "agents": []
+    },
+    {
+        "idc": "Caucourt",
+        "agents": []
+    },
+    {
+        "idc": "Caumont",
+        "agents": []
+    },
+    {
+        "idc": "Cavron-Saint-Martin",
+        "agents": []
+    },
+    {
+        "idc": "Chelers",
+        "agents": []
+    },
+    {
+        "idc": "Chériennes",
+        "agents": []
+    },
+    {
+        "idc": "Chérisy",
+        "agents": []
+    },
+    {
+        "idc": "Chocques",
+        "agents": []
+    },
+    {
+        "idc": "Clairmarais",
+        "agents": []
+    },
+    {
+        "idc": "Clarques",
+        "agents": []
+    },
+    {
+        "idc": "Clenleu",
+        "agents": []
+    },
+    {
+        "idc": "Clerques",
+        "agents": []
+    },
+    {
+        "idc": "Cléty",
+        "agents": []
+    },
+    {
+        "idc": "Colembert",
+        "agents": []
+    },
+    {
+        "idc": "Colline-Beaumont",
+        "agents": []
+    },
+    {
+        "idc": "La Comté",
+        "agents": []
+    },
+    {
+        "idc": "Conchil-le-Temple",
+        "agents": []
+    },
+    {
+        "idc": "Conchy-sur-Canche",
+        "agents": []
+    },
+    {
+        "idc": "Condette",
+        "agents": []
+    },
+    {
+        "idc": "Contes",
+        "agents": []
+    },
+    {
+        "idc": "Conteville-en-Ternois",
+        "agents": []
+    },
+    {
+        "idc": "Conteville-lès-Boulogne",
+        "agents": []
+    },
+    {
+        "idc": "Coquelles",
+        "agents": []
+    },
+    {
+        "idc": "Corbehem",
+        "agents": []
+    },
+    {
+        "idc": "Cormont",
+        "agents": []
+    },
+    {
+        "idc": "Couin",
+        "agents": []
+    },
+    {
+        "idc": "Coullemont",
+        "agents": []
+    },
+    {
+        "idc": "Coulogne",
+        "agents": []
+    },
+    {
+        "idc": "Coulomby",
+        "agents": []
+    },
+    {
+        "idc": "Coupelle-Neuve",
+        "agents": []
+    },
+    {
+        "idc": "Coupelle-Vieille",
+        "agents": []
+    },
+    {
+        "idc": "Courcelles-le-Comte",
+        "agents": []
+    },
+    {
+        "idc": "Courcelles-lès-Lens",
+        "agents": []
+    },
+    {
+        "idc": "Courrières",
+        "agents": []
+    },
+    {
+        "idc": "Courset",
+        "agents": []
+    },
+    {
+        "idc": "La Couture",
+        "agents": []
+    },
+    {
+        "idc": "Couturelle",
+        "agents": []
+    },
+    {
+        "idc": "Coyecques",
+        "agents": []
+    },
+    {
+        "idc": "Crémarest",
+        "agents": []
+    },
+    {
+        "idc": "Crépy",
+        "agents": []
+    },
+    {
+        "idc": "Créquy",
+        "agents": []
+    },
+    {
+        "idc": "Croisette",
+        "agents": []
+    },
+    {
+        "idc": "Croisilles",
+        "agents": []
+    },
+    {
+        "idc": "Croix-en-Ternois",
+        "agents": []
+    },
+    {
+        "idc": "Cucq",
+        "agents": []
+    },
+    {
+        "idc": "Cuinchy",
+        "agents": []
+    },
+    {
+        "idc": "Dainville",
+        "agents": []
+    },
+    {
+        "idc": "Dannes",
+        "agents": []
+    },
+    {
+        "idc": "Delettes",
+        "agents": []
+    },
+    {
+        "idc": "Denier",
+        "agents": []
+    },
+    {
+        "idc": "Dennebrœucq",
+        "agents": []
+    },
+    {
+        "idc": "Desvres",
+        "agents": []
+    },
+    {
+        "idc": "Diéval",
+        "agents": []
+    },
+    {
+        "idc": "Divion",
+        "agents": []
+    },
+    {
+        "idc": "Dohem",
+        "agents": []
+    },
+    {
+        "idc": "Douchy-lès-Ayette",
+        "agents": []
+    },
+    {
+        "idc": "Doudeauville",
+        "agents": []
+    },
+    {
+        "idc": "Dourges",
+        "agents": []
+    },
+    {
+        "idc": "Douriez",
+        "agents": []
+    },
+    {
+        "idc": "Douvrin",
+        "agents": []
+    },
+    {
+        "idc": "Drocourt",
+        "agents": []
+    },
+    {
+        "idc": "Drouvin-le-Marais",
+        "agents": []
+    },
+    {
+        "idc": "Duisans",
+        "agents": []
+    },
+    {
+        "idc": "Dury",
+        "agents": []
+    },
+    {
+        "idc": "Echinghen",
+        "agents": []
+    },
+    {
+        "idc": "Éclimeux",
+        "agents": []
+    },
+    {
+        "idc": "Écoivres",
+        "agents": []
+    },
+    {
+        "idc": "Écourt-Saint-Quentin",
+        "agents": []
+    },
+    {
+        "idc": "Écoust-Saint-Mein",
+        "agents": []
+    },
+    {
+        "idc": "Ecquedecques",
+        "agents": []
+    },
+    {
+        "idc": "Ecques",
+        "agents": []
+    },
+    {
+        "idc": "Écuires",
+        "agents": []
+    },
+    {
+        "idc": "Écurie",
+        "agents": []
+    },
+    {
+        "idc": "Éleu-dit-Leauwette",
+        "agents": []
+    },
+    {
+        "idc": "Elnes",
+        "agents": []
+    },
+    {
+        "idc": "Embry",
+        "agents": []
+    },
+    {
+        "idc": "Enguinegatte",
+        "agents": []
+    },
+    {
+        "idc": "Enquin-les-Mines",
+        "agents": []
+    },
+    {
+        "idc": "Enquin-sur-Baillons",
+        "agents": []
+    },
+    {
+        "idc": "Éperlecques",
+        "agents": []
+    },
+    {
+        "idc": "Épinoy",
+        "agents": []
+    },
+    {
+        "idc": "Eps",
+        "agents": []
+    },
+    {
+        "idc": "Équihen-Plage",
+        "agents": []
+    },
+    {
+        "idc": "Équirre",
+        "agents": []
+    },
+    {
+        "idc": "Ergny",
+        "agents": []
+    },
+    {
+        "idc": "Érin",
+        "agents": []
+    },
+    {
+        "idc": "Erny-Saint-Julien",
+        "agents": []
+    },
+    {
+        "idc": "Ervillers",
+        "agents": []
+    },
+    {
+        "idc": "Escalles",
+        "agents": []
+    },
+    {
+        "idc": "Escœuilles",
+        "agents": []
+    },
+    {
+        "idc": "Esquerdes",
+        "agents": []
+    },
+    {
+        "idc": "Essars",
+        "agents": []
+    },
+    {
+        "idc": "Estevelles",
+        "agents": []
+    },
+    {
+        "idc": "Estrée",
+        "agents": []
+    },
+    {
+        "idc": "Estrée-Blanche",
+        "agents": []
+    },
+    {
+        "idc": "Estrée-Cauchy",
+        "agents": []
+    },
+    {
+        "idc": "Estréelles",
+        "agents": []
+    },
+    {
+        "idc": "Estrée-Wamin",
+        "agents": []
+    },
+    {
+        "idc": "Étaing",
+        "agents": []
+    },
+    {
+        "idc": "Étaples",
+        "agents": []
+    },
+    {
+        "idc": "Éterpigny",
+        "agents": []
+    },
+    {
+        "idc": "Étrun",
+        "agents": []
+    },
+    {
+        "idc": "Évin-Malmaison",
+        "agents": []
+    },
+    {
+        "idc": "Famechon",
+        "agents": []
+    },
+    {
+        "idc": "Fampoux",
+        "agents": []
+    },
+    {
+        "idc": "Farbus",
+        "agents": []
+    },
+    {
+        "idc": "Fauquembergues",
+        "agents": []
+    },
+    {
+        "idc": "Favreuil",
+        "agents": []
+    },
+    {
+        "idc": "Febvin-Palfart",
+        "agents": []
+    },
+    {
+        "idc": "Ferfay",
+        "agents": []
+    },
+    {
+        "idc": "Ferques",
+        "agents": []
+    },
+    {
+        "idc": "Festubert",
+        "agents": []
+    },
+    {
+        "idc": "Feuchy",
+        "agents": []
+    },
+    {
+        "idc": "Ficheux",
+        "agents": []
+    },
+    {
+        "idc": "Fiefs",
+        "agents": []
+    },
+    {
+        "idc": "Fiennes",
+        "agents": []
+    },
+    {
+        "idc": "Fillièvres",
+        "agents": []
+    },
+    {
+        "idc": "Fléchin",
+        "agents": []
+    },
+    {
+        "idc": "Flers",
+        "agents": []
+    },
+    {
+        "idc": "Fleurbaix",
+        "agents": []
+    },
+    {
+        "idc": "Fleury",
+        "agents": []
+    },
+    {
+        "idc": "Floringhem",
+        "agents": []
+    },
+    {
+        "idc": "Foncquevillers",
+        "agents": []
+    },
+    {
+        "idc": "Fontaine-lès-Boulans",
+        "agents": []
+    },
+    {
+        "idc": "Fontaine-lès-Croisilles",
+        "agents": []
+    },
+    {
+        "idc": "Fontaine-lès-Hermans",
+        "agents": []
+    },
+    {
+        "idc": "Fontaine-l'Étalon",
+        "agents": []
+    },
+    {
+        "idc": "Fortel-en-Artois",
+        "agents": []
+    },
+    {
+        "idc": "Fosseux",
+        "agents": []
+    },
+    {
+        "idc": "Foufflin-Ricametz",
+        "agents": []
+    },
+    {
+        "idc": "Fouquereuil",
+        "agents": []
+    },
+    {
+        "idc": "Fouquières-lès-Béthune",
+        "agents": []
+    },
+    {
+        "idc": "Fouquières-lès-Lens",
+        "agents": []
+    },
+    {
+        "idc": "Framecourt",
+        "agents": []
+    },
+    {
+        "idc": "Frémicourt",
+        "agents": []
+    },
+    {
+        "idc": "Frencq",
+        "agents": []
+    },
+    {
+        "idc": "Fresnes-lès-Montauban",
+        "agents": []
+    },
+    {
+        "idc": "Fresnicourt-le-Dolmen",
+        "agents": []
+    },
+    {
+        "idc": "Fresnoy",
+        "agents": []
+    },
+    {
+        "idc": "Fresnoy-en-Gohelle",
+        "agents": []
+    },
+    {
+        "idc": "Fressin",
+        "agents": []
+    },
+    {
+        "idc": "Fréthun",
+        "agents": []
+    },
+    {
+        "idc": "Frévent",
+        "agents": []
+    },
+    {
+        "idc": "Frévillers",
+        "agents": []
+    },
+    {
+        "idc": "Frévin-Capelle",
+        "agents": []
+    },
+    {
+        "idc": "Fruges",
+        "agents": []
+    },
+    {
+        "idc": "Galametz",
+        "agents": []
+    },
+    {
+        "idc": "Gauchin-le-Gal",
+        "agents": []
+    },
+    {
+        "idc": "Gauchin-Verloingt",
+        "agents": []
+    },
+    {
+        "idc": "Gaudiempré",
+        "agents": []
+    },
+    {
+        "idc": "Gavrelle",
+        "agents": []
+    },
+    {
+        "idc": "Gennes-Ivergny",
+        "agents": []
+    },
+    {
+        "idc": "Givenchy-en-Gohelle",
+        "agents": []
+    },
+    {
+        "idc": "Givenchy-le-Noble",
+        "agents": []
+    },
+    {
+        "idc": "Givenchy-lès-la-Bassée",
+        "agents": []
+    },
+    {
+        "idc": "Gomiécourt",
+        "agents": []
+    },
+    {
+        "idc": "Gommecourt",
+        "agents": []
+    },
+    {
+        "idc": "Gonnehem",
+        "agents": []
+    },
+    {
+        "idc": "Gosnay",
+        "agents": []
+    },
+    {
+        "idc": "Gouves",
+        "agents": []
+    },
+    {
+        "idc": "Gouy-en-Artois",
+        "agents": []
+    },
+    {
+        "idc": "Gouy-en-Ternois",
+        "agents": []
+    },
+    {
+        "idc": "Gouy-Saint-André",
+        "agents": []
+    },
+    {
+        "idc": "Gouy-Servins",
+        "agents": []
+    },
+    {
+        "idc": "Gouy-sous-Bellonne",
+        "agents": []
+    },
+    {
+        "idc": "Graincourt-lès-Havrincourt",
+        "agents": []
+    },
+    {
+        "idc": "Grand-Rullecourt",
+        "agents": []
+    },
+    {
+        "idc": "Grenay",
+        "agents": []
+    },
+    {
+        "idc": "Grévillers",
+        "agents": []
+    },
+    {
+        "idc": "Grigny",
+        "agents": []
+    },
+    {
+        "idc": "Grincourt-lès-Pas",
+        "agents": []
+    },
+    {
+        "idc": "Groffliers",
+        "agents": []
+    },
+    {
+        "idc": "Guarbecque",
+        "agents": []
+    },
+    {
+        "idc": "Guémappe",
+        "agents": []
+    },
+    {
+        "idc": "Guemps",
+        "agents": []
+    },
+    {
+        "idc": "Guigny",
+        "agents": []
+    },
+    {
+        "idc": "Guinecourt",
+        "agents": []
+    },
+    {
+        "idc": "Guînes",
+        "agents": []
+    },
+    {
+        "idc": "Guisy",
+        "agents": []
+    },
+    {
+        "idc": "Habarcq",
+        "agents": []
+    },
+    {
+        "idc": "Haillicourt",
+        "agents": []
+    },
+    {
+        "idc": "Haisnes",
+        "agents": []
+    },
+    {
+        "idc": "Halinghen",
+        "agents": []
+    },
+    {
+        "idc": "Hallines",
+        "agents": []
+    },
+    {
+        "idc": "Halloy",
+        "agents": []
+    },
+    {
+        "idc": "Hamblain-les-Prés",
+        "agents": []
+    },
+    {
+        "idc": "Hamelincourt",
+        "agents": []
+    },
+    {
+        "idc": "Ham-en-Artois",
+        "agents": []
+    },
+    {
+        "idc": "Hames-Boucres",
+        "agents": []
+    },
+    {
+        "idc": "Hannescamps",
+        "agents": []
+    },
+    {
+        "idc": "Haplincourt",
+        "agents": []
+    },
+    {
+        "idc": "Haravesnes",
+        "agents": []
+    },
+    {
+        "idc": "Hardinghen",
+        "agents": []
+    },
+    {
+        "idc": "Harnes",
+        "agents": []
+    },
+    {
+        "idc": "Haucourt",
+        "agents": []
+    },
+    {
+        "idc": "Haute-Avesnes",
+        "agents": []
+    },
+    {
+        "idc": "Hautecloque",
+        "agents": []
+    },
+    {
+        "idc": "Hauteville",
+        "agents": []
+    },
+    {
+        "idc": "Haut-Loquin",
+        "agents": []
+    },
+    {
+        "idc": "Havrincourt",
+        "agents": []
+    },
+    {
+        "idc": "Hébuterne",
+        "agents": []
+    },
+    {
+        "idc": "Helfaut",
+        "agents": []
+    },
+    {
+        "idc": "Hendecourt-lès-Cagnicourt",
+        "agents": []
+    },
+    {
+        "idc": "Hendecourt-lès-Ransart",
+        "agents": []
+    },
+    {
+        "idc": "Hénin-Beaumont",
+        "agents": []
+    },
+    {
+        "idc": "Héninel",
+        "agents": []
+    },
+    {
+        "idc": "Hénin-sur-Cojeul",
+        "agents": []
+    },
+    {
+        "idc": "Henneveux",
+        "agents": []
+    },
+    {
+        "idc": "Hénu",
+        "agents": []
+    },
+    {
+        "idc": "Herbelles",
+        "agents": []
+    },
+    {
+        "idc": "Herbinghen",
+        "agents": []
+    },
+    {
+        "idc": "Héricourt",
+        "agents": []
+    },
+    {
+        "idc": "La Herlière",
+        "agents": []
+    },
+    {
+        "idc": "Herlincourt",
+        "agents": []
+    },
+    {
+        "idc": "Herlin-le-Sec",
+        "agents": []
+    },
+    {
+        "idc": "Herly",
+        "agents": []
+    },
+    {
+        "idc": "Hermaville",
+        "agents": []
+    },
+    {
+        "idc": "Hermelinghen",
+        "agents": []
+    },
+    {
+        "idc": "Hermies",
+        "agents": []
+    },
+    {
+        "idc": "Hermin",
+        "agents": []
+    },
+    {
+        "idc": "Hernicourt",
+        "agents": []
+    },
+    {
+        "idc": "Hersin-Coupigny",
+        "agents": []
+    },
+    {
+        "idc": "Hervelinghen",
+        "agents": []
+    },
+    {
+        "idc": "Hesdigneul-lès-Béthune",
+        "agents": []
+    },
+    {
+        "idc": "Hesdigneul-lès-Boulogne",
+        "agents": []
+    },
+    {
+        "idc": "Hesdin",
+        "agents": []
+    },
+    {
+        "idc": "Hesdin-l'Abbé",
+        "agents": []
+    },
+    {
+        "idc": "Hesmond",
+        "agents": []
+    },
+    {
+        "idc": "Hestrus",
+        "agents": []
+    },
+    {
+        "idc": "Heuchin",
+        "agents": []
+    },
+    {
+        "idc": "Heuringhem",
+        "agents": []
+    },
+    {
+        "idc": "Hézecques",
+        "agents": []
+    },
+    {
+        "idc": "Hinges",
+        "agents": []
+    },
+    {
+        "idc": "Hocquinghen",
+        "agents": []
+    },
+    {
+        "idc": "Houchin",
+        "agents": []
+    },
+    {
+        "idc": "Houdain",
+        "agents": []
+    },
+    {
+        "idc": "Houlle",
+        "agents": []
+    },
+    {
+        "idc": "Houvin-Houvigneul",
+        "agents": []
+    },
+    {
+        "idc": "Hubersent",
+        "agents": []
+    },
+    {
+        "idc": "Huby-Saint-Leu",
+        "agents": []
+    },
+    {
+        "idc": "Huclier",
+        "agents": []
+    },
+    {
+        "idc": "Hucqueliers",
+        "agents": []
+    },
+    {
+        "idc": "Hulluch",
+        "agents": []
+    },
+    {
+        "idc": "Humbercamps",
+        "agents": []
+    },
+    {
+        "idc": "Humbert",
+        "agents": []
+    },
+    {
+        "idc": "Humerœuille",
+        "agents": []
+    },
+    {
+        "idc": "Humières",
+        "agents": []
+    },
+    {
+        "idc": "Inchy-en-Artois",
+        "agents": []
+    },
+    {
+        "idc": "Incourt",
+        "agents": []
+    },
+    {
+        "idc": "Inghem",
+        "agents": []
+    },
+    {
+        "idc": "Inxent",
+        "agents": []
+    },
+    {
+        "idc": "Isbergues",
+        "agents": []
+    },
+    {
+        "idc": "Isques",
+        "agents": []
+    },
+    {
+        "idc": "Ivergny",
+        "agents": []
+    },
+    {
+        "idc": "Izel-lès-Équerchin",
+        "agents": []
+    },
+    {
+        "idc": "Izel-lès-Hameau",
+        "agents": []
+    },
+    {
+        "idc": "Journy",
+        "agents": []
+    },
+    {
+        "idc": "Labeuvrière",
+        "agents": []
+    },
+    {
+        "idc": "Labourse",
+        "agents": []
+    },
+    {
+        "idc": "Labroye",
+        "agents": []
+    },
+    {
+        "idc": "Lacres",
+        "agents": []
+    },
+    {
+        "idc": "Lagnicourt-Marcel",
+        "agents": []
+    },
+    {
+        "idc": "Laires",
+        "agents": []
+    },
+    {
+        "idc": "Lambres",
+        "agents": []
+    },
+    {
+        "idc": "Landrethun-le-Nord",
+        "agents": []
+    },
+    {
+        "idc": "Landrethun-lès-Ardres",
+        "agents": []
+    },
+    {
+        "idc": "Lapugnoy",
+        "agents": []
+    },
+    {
+        "idc": "Lattre-Saint-Quentin",
+        "agents": []
+    },
+    {
+        "idc": "Laventie",
+        "agents": []
+    },
+    {
+        "idc": "Lebiez",
+        "agents": []
+    },
+    {
+        "idc": "Lebucquière",
+        "agents": []
+    },
+    {
+        "idc": "Léchelle",
+        "agents": []
+    },
+    {
+        "idc": "Ledinghem",
+        "agents": []
+    },
+    {
+        "idc": "Lefaux",
+        "agents": []
+    },
+    {
+        "idc": "Leforest",
+        "agents": []
+    },
+    {
+        "idc": "Lens",
+        "agents": []
+    },
+    {
+        "idc": "Lépine",
+        "agents": []
+    },
+    {
+        "idc": "Lespesses",
+        "agents": []
+    },
+    {
+        "idc": "Lespinoy",
+        "agents": []
+    },
+    {
+        "idc": "Lestrem",
+        "agents": []
+    },
+    {
+        "idc": "Leubringhen",
+        "agents": []
+    },
+    {
+        "idc": "Leulinghem",
+        "agents": []
+    },
+    {
+        "idc": "Leulinghen-Bernes",
+        "agents": []
+    },
+    {
+        "idc": "Libercourt",
+        "agents": []
+    },
+    {
+        "idc": "Licques",
+        "agents": []
+    },
+    {
+        "idc": "Liencourt",
+        "agents": []
+    },
+    {
+        "idc": "Lières",
+        "agents": []
+    },
+    {
+        "idc": "Liettres",
+        "agents": []
+    },
+    {
+        "idc": "Liévin",
+        "agents": []
+    },
+    {
+        "idc": "Lignereuil",
+        "agents": []
+    },
+    {
+        "idc": "Ligny-lès-Aire",
+        "agents": []
+    },
+    {
+        "idc": "Ligny-Saint-Flochel",
+        "agents": []
+    },
+    {
+        "idc": "Ligny-sur-Canche",
+        "agents": []
+    },
+    {
+        "idc": "Ligny-Thilloy",
+        "agents": []
+    },
+    {
+        "idc": "Lillers",
+        "agents": []
+    },
+    {
+        "idc": "Linghem",
+        "agents": []
+    },
+    {
+        "idc": "Linzeux",
+        "agents": []
+    },
+    {
+        "idc": "Lisbourg",
+        "agents": []
+    },
+    {
+        "idc": "Locon",
+        "agents": []
+    },
+    {
+        "idc": "La Loge",
+        "agents": []
+    },
+    {
+        "idc": "Loison-sous-Lens",
+        "agents": []
+    },
+    {
+        "idc": "Loison-sur-Créquoise",
+        "agents": []
+    },
+    {
+        "idc": "Longfossé",
+        "agents": []
+    },
+    {
+        "idc": "Longuenesse",
+        "agents": []
+    },
+    {
+        "idc": "Longueville",
+        "agents": []
+    },
+    {
+        "idc": "Longvilliers",
+        "agents": []
+    },
+    {
+        "idc": "Loos-en-Gohelle",
+        "agents": []
+    },
+    {
+        "idc": "Lorgies",
+        "agents": []
+    },
+    {
+        "idc": "Lottinghen",
+        "agents": []
+    },
+    {
+        "idc": "Louches",
+        "agents": []
+    },
+    {
+        "idc": "Lozinghem",
+        "agents": []
+    },
+    {
+        "idc": "Lugy",
+        "agents": []
+    },
+    {
+        "idc": "Lumbres",
+        "agents": []
+    },
+    {
+        "idc": "La Madelaine-sous-Montreuil",
+        "agents": []
+    },
+    {
+        "idc": "Magnicourt-en-Comte",
+        "agents": []
+    },
+    {
+        "idc": "Magnicourt-sur-Canche",
+        "agents": []
+    },
+    {
+        "idc": "Maintenay",
+        "agents": []
+    },
+    {
+        "idc": "Maisnil",
+        "agents": []
+    },
+    {
+        "idc": "Maisnil-lès-Ruitz",
+        "agents": []
+    },
+    {
+        "idc": "Maisoncelle",
+        "agents": []
+    },
+    {
+        "idc": "Maizières",
+        "agents": []
+    },
+    {
+        "idc": "Mametz",
+        "agents": []
+    },
+    {
+        "idc": "Manin",
+        "agents": []
+    },
+    {
+        "idc": "Maninghem",
+        "agents": []
+    },
+    {
+        "idc": "Maninghen-Henne",
+        "agents": []
+    },
+    {
+        "idc": "Marant",
+        "agents": []
+    },
+    {
+        "idc": "Marck",
+        "agents": []
+    },
+    {
+        "idc": "Marconne",
+        "agents": []
+    },
+    {
+        "idc": "Marconnelle",
+        "agents": []
+    },
+    {
+        "idc": "Marenla",
+        "agents": []
+    },
+    {
+        "idc": "Maresquel-Ecquemicourt",
+        "agents": []
+    },
+    {
+        "idc": "Marest",
+        "agents": []
+    },
+    {
+        "idc": "Maresville",
+        "agents": []
+    },
+    {
+        "idc": "Marles-les-Mines",
+        "agents": []
+    },
+    {
+        "idc": "Marles-sur-Canche",
+        "agents": []
+    },
+    {
+        "idc": "Marœuil",
+        "agents": []
+    },
+    {
+        "idc": "Marquay",
+        "agents": []
+    },
+    {
+        "idc": "Marquion",
+        "agents": []
+    },
+    {
+        "idc": "Marquise",
+        "agents": []
+    },
+    {
+        "idc": "Martinpuich",
+        "agents": []
+    },
+    {
+        "idc": "Matringhem",
+        "agents": []
+    },
+    {
+        "idc": "Mazingarbe",
+        "agents": []
+    },
+    {
+        "idc": "Mazinghem",
+        "agents": []
+    },
+    {
+        "idc": "Mencas",
+        "agents": []
+    },
+    {
+        "idc": "Menneville",
+        "agents": []
+    },
+    {
+        "idc": "Mentque-Nortbécourt",
+        "agents": []
+    },
+    {
+        "idc": "Mercatel",
+        "agents": []
+    },
+    {
+        "idc": "Merck-Saint-Liévin",
+        "agents": []
+    },
+    {
+        "idc": "Méricourt",
+        "agents": []
+    },
+    {
+        "idc": "Merlimont",
+        "agents": []
+    },
+    {
+        "idc": "Metz-en-Couture",
+        "agents": []
+    },
+    {
+        "idc": "Meurchin",
+        "agents": []
+    },
+    {
+        "idc": "Mingoval",
+        "agents": []
+    },
+    {
+        "idc": "Moncheaux-lès-Frévent",
+        "agents": []
+    },
+    {
+        "idc": "Monchel-sur-Canche",
+        "agents": []
+    },
+    {
+        "idc": "Monchiet",
+        "agents": []
+    },
+    {
+        "idc": "Monchy-au-Bois",
+        "agents": []
+    },
+    {
+        "idc": "Monchy-Breton",
+        "agents": []
+    },
+    {
+        "idc": "Monchy-Cayeux",
+        "agents": []
+    },
+    {
+        "idc": "Monchy-le-Preux",
+        "agents": []
+    },
+    {
+        "idc": "Mondicourt",
+        "agents": []
+    },
+    {
+        "idc": "Mont-Bernanchon",
+        "agents": []
+    },
+    {
+        "idc": "Montcavrel",
+        "agents": []
+    },
+    {
+        "idc": "Montenescourt",
+        "agents": []
+    },
+    {
+        "idc": "Montigny-en-Gohelle",
+        "agents": []
+    },
+    {
+        "idc": "Montreuil-sur-Mer",
+        "agents": []
+    },
+    {
+        "idc": "Mont-Saint-Éloi",
+        "agents": []
+    },
+    {
+        "idc": "Monts-en-Ternois",
+        "agents": []
+    },
+    {
+        "idc": "Morchies",
+        "agents": []
+    },
+    {
+        "idc": "Moringhem",
+        "agents": []
+    },
+    {
+        "idc": "Morval",
+        "agents": []
+    },
+    {
+        "idc": "Mory",
+        "agents": []
+    },
+    {
+        "idc": "Moulle",
+        "agents": []
+    },
+    {
+        "idc": "Mouriez",
+        "agents": []
+    },
+    {
+        "idc": "Moyenneville",
+        "agents": []
+    },
+    {
+        "idc": "Muncq-Nieurlet",
+        "agents": []
+    },
+    {
+        "idc": "Nabringhen",
+        "agents": []
+    },
+    {
+        "idc": "Nédon",
+        "agents": []
+    },
+    {
+        "idc": "Nédonchel",
+        "agents": []
+    },
+    {
+        "idc": "Nempont-Saint-Firmin",
+        "agents": []
+    },
+    {
+        "idc": "Nesles",
+        "agents": []
+    },
+    {
+        "idc": "Neufchâtel-Hardelot",
+        "agents": []
+    },
+    {
+        "idc": "Neulette",
+        "agents": []
+    },
+    {
+        "idc": "Neuve-Chapelle",
+        "agents": []
+    },
+    {
+        "idc": "Neuville-au-Cornet",
+        "agents": []
+    },
+    {
+        "idc": "Neuville-Bourjonval",
+        "agents": []
+    },
+    {
+        "idc": "Neuville-Saint-Vaast",
+        "agents": []
+    },
+    {
+        "idc": "Neuville-sous-Montreuil",
+        "agents": []
+    },
+    {
+        "idc": "Neuville-Vitasse",
+        "agents": []
+    },
+    {
+        "idc": "Neuvireuil",
+        "agents": []
+    },
+    {
+        "idc": "Nielles-lès-Ardres",
+        "agents": []
+    },
+    {
+        "idc": "Nielles-lès-Bléquin",
+        "agents": []
+    },
+    {
+        "idc": "Nielles-lès-Calais",
+        "agents": []
+    },
+    {
+        "idc": "Nœux-lès-Auxi",
+        "agents": []
+    },
+    {
+        "idc": "Nœux-les-Mines",
+        "agents": []
+    },
+    {
+        "idc": "Nordausques",
+        "agents": []
+    },
+    {
+        "idc": "Noreuil",
+        "agents": []
+    },
+    {
+        "idc": "Norrent-Fontes",
+        "agents": []
+    },
+    {
+        "idc": "Nortkerque",
+        "agents": []
+    },
+    {
+        "idc": "Nort-Leulinghem",
+        "agents": []
+    },
+    {
+        "idc": "Nouvelle-Église",
+        "agents": []
+    },
+    {
+        "idc": "Noyelles-Godault",
+        "agents": []
+    },
+    {
+        "idc": "Noyelles-lès-Humières",
+        "agents": []
+    },
+    {
+        "idc": "Noyelles-lès-Vermelles",
+        "agents": []
+    },
+    {
+        "idc": "Noyelles-sous-Bellonne",
+        "agents": []
+    },
+    {
+        "idc": "Noyelles-sous-Lens",
+        "agents": []
+    },
+    {
+        "idc": "Noyellette",
+        "agents": []
+    },
+    {
+        "idc": "Noyelle-Vion",
+        "agents": []
+    },
+    {
+        "idc": "Nuncq-Hautecôte",
+        "agents": []
+    },
+    {
+        "idc": "Oblinghem",
+        "agents": []
+    },
+    {
+        "idc": "Œuf-en-Ternois",
+        "agents": []
+    },
+    {
+        "idc": "Offekerque",
+        "agents": []
+    },
+    {
+        "idc": "Offin",
+        "agents": []
+    },
+    {
+        "idc": "Offrethun",
+        "agents": []
+    },
+    {
+        "idc": "Oignies",
+        "agents": []
+    },
+    {
+        "idc": "Oisy-le-Verger",
+        "agents": []
+    },
+    {
+        "idc": "Oppy",
+        "agents": []
+    },
+    {
+        "idc": "Orville",
+        "agents": []
+    },
+    {
+        "idc": "Ostreville",
+        "agents": []
+    },
+    {
+        "idc": "Ourton",
+        "agents": []
+    },
+    {
+        "idc": "Outreau",
+        "agents": []
+    },
+    {
+        "idc": "Ouve-Wirquin",
+        "agents": []
+    },
+    {
+        "idc": "Oye-Plage",
+        "agents": []
+    },
+    {
+        "idc": "Palluel",
+        "agents": []
+    },
+    {
+        "idc": "Le Parcq",
+        "agents": []
+    },
+    {
+        "idc": "Parenty",
+        "agents": []
+    },
+    {
+        "idc": "Pas-en-Artois",
+        "agents": []
+    },
+    {
+        "idc": "Pelves",
+        "agents": []
+    },
+    {
+        "idc": "Penin",
+        "agents": []
+    },
+    {
+        "idc": "Pernes",
+        "agents": []
+    },
+    {
+        "idc": "Pernes-lès-Boulogne",
+        "agents": []
+    },
+    {
+        "idc": "Peuplingues",
+        "agents": []
+    },
+    {
+        "idc": "Pierremont",
+        "agents": []
+    },
+    {
+        "idc": "Pihem",
+        "agents": []
+    },
+    {
+        "idc": "Pihen-lès-Guînes",
+        "agents": []
+    },
+    {
+        "idc": "Pittefaux",
+        "agents": []
+    },
+    {
+        "idc": "Planques",
+        "agents": []
+    },
+    {
+        "idc": "Plouvain",
+        "agents": []
+    },
+    {
+        "idc": "Polincove",
+        "agents": []
+    },
+    {
+        "idc": "Pommera",
+        "agents": []
+    },
+    {
+        "idc": "Pommier",
+        "agents": []
+    },
+    {
+        "idc": "Le Ponchel",
+        "agents": []
+    },
+    {
+        "idc": "Pont-à-Vendin",
+        "agents": []
+    },
+    {
+        "idc": "Le Portel",
+        "agents": []
+    },
+    {
+        "idc": "Prédefin",
+        "agents": []
+    },
+    {
+        "idc": "Pressy",
+        "agents": []
+    },
+    {
+        "idc": "Preures",
+        "agents": []
+    },
+    {
+        "idc": "Pronville",
+        "agents": []
+    },
+    {
+        "idc": "Puisieux",
+        "agents": []
+    },
+    {
+        "idc": "Quéant",
+        "agents": []
+    },
+    {
+        "idc": "Quelmes",
+        "agents": []
+    },
+    {
+        "idc": "Quercamps",
+        "agents": []
+    },
+    {
+        "idc": "Quernes",
+        "agents": []
+    },
+    {
+        "idc": "Le Quesnoy-en-Artois",
+        "agents": []
+    },
+    {
+        "idc": "Quesques",
+        "agents": []
+    },
+    {
+        "idc": "Questrecques",
+        "agents": []
+    },
+    {
+        "idc": "Quiéry-la-Motte",
+        "agents": []
+    },
+    {
+        "idc": "Quiestède",
+        "agents": []
+    },
+    {
+        "idc": "Quilen",
+        "agents": []
+    },
+    {
+        "idc": "Quœux-Haut-Maisnil",
+        "agents": []
+    },
+    {
+        "idc": "Racquinghem",
+        "agents": []
+    },
+    {
+        "idc": "Radinghem",
+        "agents": []
+    },
+    {
+        "idc": "Ramecourt",
+        "agents": []
+    },
+    {
+        "idc": "Rang-du-Fliers",
+        "agents": []
+    },
+    {
+        "idc": "Ransart",
+        "agents": []
+    },
+    {
+        "idc": "Raye-sur-Authie",
+        "agents": []
+    },
+    {
+        "idc": "Rebecques",
+        "agents": []
+    },
+    {
+        "idc": "Rebergues",
+        "agents": []
+    },
+    {
+        "idc": "Rebreuve-Ranchicourt",
+        "agents": []
+    },
+    {
+        "idc": "Rebreuve-sur-Canche",
+        "agents": []
+    },
+    {
+        "idc": "Rebreuviette",
+        "agents": []
+    },
+    {
+        "idc": "Reclinghem",
+        "agents": []
+    },
+    {
+        "idc": "Récourt",
+        "agents": []
+    },
+    {
+        "idc": "Recques-sur-Course",
+        "agents": []
+    },
+    {
+        "idc": "Recques-sur-Hem",
+        "agents": []
+    },
+    {
+        "idc": "Regnauville",
+        "agents": []
+    },
+    {
+        "idc": "Rely",
+        "agents": []
+    },
+    {
+        "idc": "Remilly-Wirquin",
+        "agents": []
+    },
+    {
+        "idc": "Rémy",
+        "agents": []
+    },
+    {
+        "idc": "Renty",
+        "agents": []
+    },
+    {
+        "idc": "Rety",
+        "agents": []
+    },
+    {
+        "idc": "Richebourg",
+        "agents": []
+    },
+    {
+        "idc": "Riencourt-lès-Bapaume",
+        "agents": []
+    },
+    {
+        "idc": "Riencourt-lès-Cagnicourt",
+        "agents": []
+    },
+    {
+        "idc": "Rimboval",
+        "agents": []
+    },
+    {
+        "idc": "Rinxent",
+        "agents": []
+    },
+    {
+        "idc": "Rivière",
+        "agents": []
+    },
+    {
+        "idc": "Robecq",
+        "agents": []
+    },
+    {
+        "idc": "Roclincourt",
+        "agents": []
+    },
+    {
+        "idc": "Rocquigny",
+        "agents": []
+    },
+    {
+        "idc": "Rodelinghem",
+        "agents": []
+    },
+    {
+        "idc": "Roëllecourt",
+        "agents": []
+    },
+    {
+        "idc": "Rœux",
+        "agents": []
+    },
+    {
+        "idc": "Rollancourt",
+        "agents": []
+    },
+    {
+        "idc": "Rombly",
+        "agents": []
+    },
+    {
+        "idc": "Roquetoire",
+        "agents": []
+    },
+    {
+        "idc": "Rougefay",
+        "agents": []
+    },
+    {
+        "idc": "Roussent",
+        "agents": []
+    },
+    {
+        "idc": "Rouvroy",
+        "agents": []
+    },
+    {
+        "idc": "Royon",
+        "agents": []
+    },
+    {
+        "idc": "Ruisseauville",
+        "agents": []
+    },
+    {
+        "idc": "Ruitz",
+        "agents": []
+    },
+    {
+        "idc": "Rumaucourt",
+        "agents": []
+    },
+    {
+        "idc": "Rumilly",
+        "agents": []
+    },
+    {
+        "idc": "Ruminghem",
+        "agents": []
+    },
+    {
+        "idc": "Ruyaulcourt",
+        "agents": []
+    },
+    {
+        "idc": "Sachin",
+        "agents": []
+    },
+    {
+        "idc": "Sailly-au-Bois",
+        "agents": []
+    },
+    {
+        "idc": "Sailly-en-Ostrevent",
+        "agents": []
+    },
+    {
+        "idc": "Sailly-Labourse",
+        "agents": []
+    },
+    {
+        "idc": "Sailly-sur-la-Lys",
+        "agents": []
+    },
+    {
+        "idc": "Sains-en-Gohelle",
+        "agents": []
+    },
+    {
+        "idc": "Sains-lès-Fressin",
+        "agents": []
+    },
+    {
+        "idc": "Sains-lès-Marquion",
+        "agents": []
+    },
+    {
+        "idc": "Sains-lès-Pernes",
+        "agents": []
+    },
+    {
+        "idc": "Saint-Amand",
+        "agents": []
+    },
+    {
+        "idc": "Saint-Aubin",
+        "agents": []
+    },
+    {
+        "idc": "Saint-Denœux",
+        "agents": []
+    },
+    {
+        "idc": "Sainte-Austreberthe",
+        "agents": []
+    },
+    {
+        "idc": "Sainte-Catherine",
+        "agents": []
+    },
+    {
+        "idc": "Sainte-Marie-Kerque",
+        "agents": []
+    },
+    {
+        "idc": "Saint-Étienne-au-Mont",
+        "agents": []
+    },
+    {
+        "idc": "Saint-Floris",
+        "agents": []
+    },
+    {
+        "idc": "Saint-Folquin",
+        "agents": []
+    },
+    {
+        "idc": "Saint-Georges",
+        "agents": []
+    },
+    {
+        "idc": "Saint-Hilaire-Cottes",
+        "agents": []
+    },
+    {
+        "idc": "Saint-Inglevert",
+        "agents": []
+    },
+    {
+        "idc": "Saint-Josse-sur-Mer",
+        "agents": []
+    },
+    {
+        "idc": "Saint-Laurent-Blangy",
+        "agents": []
+    },
+    {
+        "idc": "Saint-Léger",
+        "agents": []
+    },
+    {
+        "idc": "Saint-Léonard",
+        "agents": []
+    },
+    {
+        "idc": "Saint-Martin-au-Laërt",
+        "agents": []
+    },
+    {
+        "idc": "Saint-Martin-Boulogne",
+        "agents": []
+    },
+    {
+        "idc": "Saint-Martin-Choquel",
+        "agents": []
+    },
+    {
+        "idc": "Saint-Martin-d'Hardinghem",
+        "agents": []
+    },
+    {
+        "idc": "Saint-Martin-sur-Cojeul",
+        "agents": []
+    },
+    {
+        "idc": "Saint-Michel-sous-Bois",
+        "agents": []
+    },
+    {
+        "idc": "Saint-Michel-sur-Ternoise",
+        "agents": []
+    },
+    {
+        "idc": "Saint-Nicolas-lez-Arras",
+        "agents": []
+    },
+    {
+        "idc": "Saint-Omer",
+        "agents": []
+    },
+    {
+        "idc": "Saint-Omer-Capelle",
+        "agents": []
+    },
+    {
+        "idc": "Saint-Pol-sur-Ternoise",
+        "agents": []
+    },
+    {
+        "idc": "Saint-Rémy-au-Bois",
+        "agents": []
+    },
+    {
+        "idc": "Saint-Tricat",
+        "agents": []
+    },
+    {
+        "idc": "Saint-Venant",
+        "agents": []
+    },
+    {
+        "idc": "Sallaumines",
+        "agents": []
+    },
+    {
+        "idc": "Salperwick",
+        "agents": []
+    },
+    {
+        "idc": "Samer",
+        "agents": []
+    },
+    {
+        "idc": "Sangatte",
+        "agents": []
+    },
+    {
+        "idc": "Sanghen",
+        "agents": []
+    },
+    {
+        "idc": "Sapignies",
+        "agents": []
+    },
+    {
+        "idc": "Le Sars",
+        "agents": []
+    },
+    {
+        "idc": "Sars-le-Bois",
+        "agents": []
+    },
+    {
+        "idc": "Sarton",
+        "agents": []
+    },
+    {
+        "idc": "Sauchy-Cauchy",
+        "agents": []
+    },
+    {
+        "idc": "Sauchy-Lestrée",
+        "agents": []
+    },
+    {
+        "idc": "Saudemont",
+        "agents": []
+    },
+    {
+        "idc": "Saulchoy",
+        "agents": []
+    },
+    {
+        "idc": "Saulty",
+        "agents": []
+    },
+    {
+        "idc": "Savy-Berlette",
+        "agents": []
+    },
+    {
+        "idc": "Selles",
+        "agents": []
+    },
+    {
+        "idc": "Sempy",
+        "agents": []
+    },
+    {
+        "idc": "Seninghem",
+        "agents": []
+    },
+    {
+        "idc": "Senlecques",
+        "agents": []
+    },
+    {
+        "idc": "Senlis",
+        "agents": []
+    },
+    {
+        "idc": "Séricourt",
+        "agents": []
+    },
+    {
+        "idc": "Serques",
+        "agents": []
+    },
+    {
+        "idc": "Servins",
+        "agents": []
+    },
+    {
+        "idc": "Setques",
+        "agents": []
+    },
+    {
+        "idc": "Sibiville",
+        "agents": []
+    },
+    {
+        "idc": "Simencourt",
+        "agents": []
+    },
+    {
+        "idc": "Siracourt",
+        "agents": []
+    },
+    {
+        "idc": "Sombrin",
+        "agents": []
+    },
+    {
+        "idc": "Sorrus",
+        "agents": []
+    },
+    {
+        "idc": "Souastre",
+        "agents": []
+    },
+    {
+        "idc": "Souchez",
+        "agents": []
+    },
+    {
+        "idc": "Le Souich",
+        "agents": []
+    },
+    {
+        "idc": "Surques",
+        "agents": []
+    },
+    {
+        "idc": "Sus-Saint-Léger",
+        "agents": []
+    },
+    {
+        "idc": "Tangry",
+        "agents": []
+    },
+    {
+        "idc": "Tardinghen",
+        "agents": []
+    },
+    {
+        "idc": "Tatinghem",
+        "agents": []
+    },
+    {
+        "idc": "Teneur",
+        "agents": []
+    },
+    {
+        "idc": "Ternas",
+        "agents": []
+    },
+    {
+        "idc": "Thélus",
+        "agents": []
+    },
+    {
+        "idc": "Thérouanne",
+        "agents": []
+    },
+    {
+        "idc": "Thiembronne",
+        "agents": []
+    },
+    {
+        "idc": "La Thieuloye",
+        "agents": []
+    },
+    {
+        "idc": "Thièvres",
+        "agents": []
+    },
+    {
+        "idc": "Tigny-Noyelle",
+        "agents": []
+    },
+    {
+        "idc": "Tilloy-lès-Hermaville",
+        "agents": []
+    },
+    {
+        "idc": "Tilloy-lès-Mofflaines",
+        "agents": []
+    },
+    {
+        "idc": "Tilly-Capelle",
+        "agents": []
+    },
+    {
+        "idc": "Tilques",
+        "agents": []
+    },
+    {
+        "idc": "Tincques",
+        "agents": []
+    },
+    {
+        "idc": "Tingry",
+        "agents": []
+    },
+    {
+        "idc": "Tollent",
+        "agents": []
+    },
+    {
+        "idc": "Torcy",
+        "agents": []
+    },
+    {
+        "idc": "Tortefontaine",
+        "agents": []
+    },
+    {
+        "idc": "Tortequesne",
+        "agents": []
+    },
+    {
+        "idc": "Le Touquet-Paris-Plage",
+        "agents": []
+    },
+    {
+        "idc": "Tournehem-sur-la-Hem",
+        "agents": []
+    },
+    {
+        "idc": "Tramecourt",
+        "agents": []
+    },
+    {
+        "idc": "Le Transloy",
+        "agents": []
+    },
+    {
+        "idc": "Trescault",
+        "agents": []
+    },
+    {
+        "idc": "Troisvaux",
+        "agents": []
+    },
+    {
+        "idc": "Tubersent",
+        "agents": []
+    },
+    {
+        "idc": "Vacquerie-le-Boucq",
+        "agents": []
+    },
+    {
+        "idc": "Vacqueriette-Erquières",
+        "agents": []
+    },
+    {
+        "idc": "Valhuon",
+        "agents": []
+    },
+    {
+        "idc": "Vaudricourt",
+        "agents": []
+    },
+    {
+        "idc": "Vaudringhem",
+        "agents": []
+    },
+    {
+        "idc": "Vaulx",
+        "agents": []
+    },
+    {
+        "idc": "Vaulx-Vraucourt",
+        "agents": []
+    },
+    {
+        "idc": "Vélu",
+        "agents": []
+    },
+    {
+        "idc": "Vendin-lès-Béthune",
+        "agents": []
+    },
+    {
+        "idc": "Vendin-le-Vieil",
+        "agents": []
+    },
+    {
+        "idc": "Verchin",
+        "agents": []
+    },
+    {
+        "idc": "Verchocq",
+        "agents": []
+    },
+    {
+        "idc": "Verlincthun",
+        "agents": []
+    },
+    {
+        "idc": "Vermelles",
+        "agents": []
+    },
+    {
+        "idc": "Verquigneul",
+        "agents": []
+    },
+    {
+        "idc": "Verquin",
+        "agents": []
+    },
+    {
+        "idc": "Verton",
+        "agents": []
+    },
+    {
+        "idc": "Vieil-Hesdin",
+        "agents": []
+    },
+    {
+        "idc": "Vieille-Chapelle",
+        "agents": []
+    },
+    {
+        "idc": "Vieille-Église",
+        "agents": []
+    },
+    {
+        "idc": "Vieil-Moutier",
+        "agents": []
+    },
+    {
+        "idc": "Villers-au-Bois",
+        "agents": []
+    },
+    {
+        "idc": "Villers-au-Flos",
+        "agents": []
+    },
+    {
+        "idc": "Villers-Brûlin",
+        "agents": []
+    },
+    {
+        "idc": "Villers-Châtel",
+        "agents": []
+    },
+    {
+        "idc": "Villers-lès-Cagnicourt",
+        "agents": []
+    },
+    {
+        "idc": "Villers-l'Hôpital",
+        "agents": []
+    },
+    {
+        "idc": "Villers-Sir-Simon",
+        "agents": []
+    },
+    {
+        "idc": "Vimy",
+        "agents": []
+    },
+    {
+        "idc": "Vincly",
+        "agents": []
+    },
+    {
+        "idc": "Violaines",
+        "agents": []
+    },
+    {
+        "idc": "Vis-en-Artois",
+        "agents": []
+    },
+    {
+        "idc": "Vitry-en-Artois",
+        "agents": []
+    },
+    {
+        "idc": "Waben",
+        "agents": []
+    },
+    {
+        "idc": "Wacquinghen",
+        "agents": []
+    },
+    {
+        "idc": "Wail",
+        "agents": []
+    },
+    {
+        "idc": "Wailly",
+        "agents": []
+    },
+    {
+        "idc": "Wailly-Beaucamp",
+        "agents": []
+    },
+    {
+        "idc": "Wambercourt",
+        "agents": []
+    },
+    {
+        "idc": "Wamin",
+        "agents": []
+    },
+    {
+        "idc": "Wancourt",
+        "agents": []
+    },
+    {
+        "idc": "Wanquetin",
+        "agents": []
+    },
+    {
+        "idc": "Wardrecques",
+        "agents": []
+    },
+    {
+        "idc": "Warlencourt-Eaucourt",
+        "agents": []
+    },
+    {
+        "idc": "Warlincourt-lès-Pas",
+        "agents": []
+    },
+    {
+        "idc": "Warlus",
+        "agents": []
+    },
+    {
+        "idc": "Warluzel",
+        "agents": []
+    },
+    {
+        "idc": "Le Wast",
+        "agents": []
+    },
+    {
+        "idc": "Wavrans-sur-l'Aa",
+        "agents": []
+    },
+    {
+        "idc": "Wavrans-sur-Ternoise",
+        "agents": []
+    },
+    {
+        "idc": "Westrehem",
+        "agents": []
+    },
+    {
+        "idc": "Wicquinghem",
+        "agents": []
+    },
+    {
+        "idc": "Widehem",
+        "agents": []
+    },
+    {
+        "idc": "Wierre-au-Bois",
+        "agents": []
+    },
+    {
+        "idc": "Wierre-Effroy",
+        "agents": []
+    },
+    {
+        "idc": "Willeman",
+        "agents": []
+    },
+    {
+        "idc": "Willencourt",
+        "agents": []
+    },
+    {
+        "idc": "Willerval",
+        "agents": []
+    },
+    {
+        "idc": "Wimereux",
+        "agents": []
+    },
+    {
+        "idc": "Wimille",
+        "agents": []
+    },
+    {
+        "idc": "Wingles",
+        "agents": []
+    },
+    {
+        "idc": "Wirwignes",
+        "agents": []
+    },
+    {
+        "idc": "Wismes",
+        "agents": []
+    },
+    {
+        "idc": "Wisques",
+        "agents": []
+    },
+    {
+        "idc": "Wissant",
+        "agents": []
+    },
+    {
+        "idc": "Witternesse",
+        "agents": []
+    },
+    {
+        "idc": "Wittes",
+        "agents": []
+    },
+    {
+        "idc": "Wizernes",
+        "agents": []
+    },
+    {
+        "idc": "Ytres",
+        "agents": []
+    },
+    {
+        "idc": "Zoteux",
+        "agents": []
+    },
+    {
+        "idc": "Zouafques",
+        "agents": []
+    },
+    {
+        "idc": "Zudausques",
+        "agents": []
+    },
+    {
+        "idc": "Zutkerque",
+        "agents": []
+    }
+]
