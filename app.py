@@ -8,9 +8,19 @@ import unicodedata
 import base64
 import xml.etree.ElementTree as ET
 
-# Configuration de la page
+# Recherche et chargement du chemin du logo
+def find_logo_path():
+    for filename in ["Merlin Logo.png", "Merlin Logo.webp", "Merlin Logo.jpg"]:
+        if os.path.exists(filename):
+            return filename
+    return ""
+
+LOGO_PATH = find_logo_path()
+
+# Configuration de la page (avec le logo dans l'onglet du navigateur)
 st.set_page_config(
     page_title="Merlin - Gestion des Saisines RH",
+    page_icon=LOGO_PATH if LOGO_PATH else "🧙‍♂️",
     layout="wide"
 )
 
